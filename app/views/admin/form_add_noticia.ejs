@@ -2,16 +2,16 @@
 	<html lang="pt-br">
 		<head>
 			<meta charset="utf-8"/>
-			<title>Formulário de cadastro de Not�cia</title>
+			<title>Formulário de cadastro de Notícia</title>
 		</head>
 	<body>
 
 		<h1>Adicionar noticia</h1>
 		<br />
 
-		<form action="/noticias/salvar" method="POST">
+		<form action="/noticias/salvar" method="post">
 			<label>Título</label>
-			<input type="text" id="titulo" placeholder="Título da notícia">
+			<input type="text" id="titulo" name="titulo" placeholder="Título da notícia">
 			<br>
 			<label>Notícia</label>
 			<textarea name="noticia" id="noticia" cols="30" rows="5"></textarea>
@@ -19,7 +19,6 @@
 			<input type="submit" value="Enviar">
 
 		</form>
-
-
+		
 	</body>
 </html>
