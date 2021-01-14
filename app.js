@@ -1,5 +1,5 @@
-var app = require('./config/server')
+var app = require('./config/server');
 
 app.listen(3000, function(){
-    console.log('Servidor On')
-})
+    console.log("Servidor ON");
+});
