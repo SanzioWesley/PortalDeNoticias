@@ -8,13 +8,13 @@ Portal de notícias é uma aplicação node e html.
 A aplicação consiste em adicionar noticias no portal.
 
 ## Layout web
-![Web 1](https://github.com/SanzioWesley/curso_node/blob/main/assets/web1.png)
+![Web 1](https://github.com/SanzioWesley/PortalDeNoticias/blob/main/assets/web1.png)
 
-![Web 2](https://github.com/SanzioWesley/curso_node/blob/main/assets/web2.png)
+![Web 2](https://github.com/SanzioWesley/PortalDeNoticias/blob/main/assets/web2.png)
 
-![Web 3](https://github.com/SanzioWesley/curso_node/blob/main/assets/web2.png)
+![Web 3](https://github.com/SanzioWesley/PortalDeNoticias/blob/main/assets/web3.png)
 
-![Web 4](https://github.com/SanzioWesley/curso_node/blob/main/assets/web4.png)
+![Web 4](https://github.com/SanzioWesley/PortalDeNoticias/blob/main/assets/web4.png)
 
 
 # Tecnologias utilizadas
@@ -31,7 +31,7 @@ Pré-requisitos: Node
 
 ```bash
 # clonar repositório
-git clone https://github.com/SanzioWesley/PortaldeNoticias.git
+git clone https://github.com/SanzioWesley/PortalDeNoticias.git
 # entrar na pasta do projeto curso-node
 cd curso-node
 
