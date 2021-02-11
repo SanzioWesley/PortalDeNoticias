@@ -31,8 +31,7 @@ Pré-requisitos: Node
 
 ```bash
 # clonar repositório
-git clone https://github.com/SanzioWesley/curso_node.git
-
+git clone https://github.com/SanzioWesley/PortaldeNoticias.git
 # entrar na pasta do projeto curso-node
 cd curso-node
 
